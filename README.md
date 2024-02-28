@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Buckley</h1>
-<h3 align="center">Cybersecurity student looking to further my learning through employment</h3>
+<h3 align="center">Cyber security student looking to further my learning through employment</h3>
 
 - I’m currently working on **receiving my certificate from Denver University in Cybersecurity. We have covered many topics that I will discuss further in other repositories and show examples.**
 
