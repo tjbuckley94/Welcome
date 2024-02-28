@@ -3,7 +3,7 @@
 
 - I’m currently working on **receiving my certificate from Denver University in Cybersecurity. We have covered many topics that I will discuss further in other repositories and show examples.**
 
-- I’m looking to collaborate on **anything and everything. My main goal of this page is to showcase the skills I have learned thus far.**
+- I’m looking to collaborate on **anything and everything. My main goal of these repositories is to showcase the skills I have learned thus far.**
 
 - I’m looking for help with **gaining more knowledge in the cyber security field by joining your team and helping your compnay run smoothly and mitigate risks of threat actors.**
 
