@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler Buckley</h1>
 <h3 align="center">Cyber security student looking to further my learning through employment</h3>
 
-- I’m currently working on **receiving my certificate from Denver University in Cybersecurity. We have covered many topics that I will discuss further in other repositories and show examples.**
+- I’m currently working on **receiving my certificate from Denver University in cyber security. We have covered many topics that I will discuss further in other repositories and show examples.**
 
 - I’m looking to collaborate on **anything and everything. My main goal of these repositories is to showcase the skills I have learned thus far.**
 
